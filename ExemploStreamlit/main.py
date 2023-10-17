@@ -40,7 +40,7 @@ option = st.selectbox(
 )
 
 if gr_quant == 1:
-    option = 'Barras do Estado'
+    option = 'Barras de Estado'
 elif gr_quant == 2:
     option = 'Todos os Gráficos'
 
