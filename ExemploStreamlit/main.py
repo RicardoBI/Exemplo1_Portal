@@ -56,6 +56,6 @@ elif option == 'Todos os Gráficos':
     gr_estado()
     gr_loja()
 
-texto = st.text_input("Your name", key="name")
+texto = st.text_input("Seu nome", key="name")
 st.session_state.name
 st.write(texto)
